@@ -1,0 +1,9 @@
+# 研究缓存：网页抓取的原始 HTML/JSON，可重新生成，不进仓库
+备忘录/.research/
+
+# 系统/编辑器杂物
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+.vscode/
